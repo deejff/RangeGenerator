@@ -1,5 +1,8 @@
 ##This library helps you generate date ranges starting from certain date.
 
+######Installation
+composer require deejff/range-generator
+
 ######Example of use:
 
 ```php
