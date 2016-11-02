@@ -1,6 +1,6 @@
 {
     "name": "deejff/range-generator",
-    "description": "Library to generate data time ranges",
+    "description": "Library to generate date ranges starting from certain date",
     "license": "MIT",
     "keywords": ["date", "range"],
     "authors": [
