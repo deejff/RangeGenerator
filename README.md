@@ -1,4 +1,4 @@
-##This library let you generate date ranges starting from certain date.
+##This library helps you generate date ranges starting from certain date.
 
 ######Example of use:
 
