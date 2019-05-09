@@ -1,9 +1,9 @@
-##This library helps you generate date ranges starting from certain date.
+## This library helps you generate date ranges starting from a certain date.
 
-######Installation
+###### Installation
 composer require deejff/range-generator
 
-######Example of use:
+###### Example of use:
 
 ```php
 $rangeByTypeGenerator = new RangeByTypeGenerator();
@@ -15,7 +15,7 @@ $dateRange->getFrom();
 $dateRange->getTo();
 //DateTime('2016-04-30 23:59:59')
 ```
-######You can use one of predefined types:
+###### You can use one of the predefined types:
 
 - TYPE_TODAY,
 - TYPE_YESTERDAY,
